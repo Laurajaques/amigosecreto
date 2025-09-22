@@ -18,13 +18,14 @@ O usuário pode digitar nomes de amigos em um campo de texto, adicionar esses no
 
 1. Baixe ou clone este repositório:
  
-   git clone https://github.com/Laurajaques/amigosecreto)
-2. Entre na pasta do projeto:
+   git clone https://github.com/Laurajaques/amigosecreto
+   
+3. Entre na pasta do projeto:
 
    cd amigo-secreto
 
 
-3. Abra o arquivo index.html em um navegador.
+4. Abra o arquivo index.html em um navegador.
 
 
 Autor
